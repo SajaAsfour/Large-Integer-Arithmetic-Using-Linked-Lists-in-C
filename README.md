@@ -17,9 +17,6 @@ This repository contains my **C implementation** for performing arithmetic opera
 
 ## 📂 Contents
 - 📜 **C Source Code:** Implementation of linked list operations and arithmetic functions.
-- 📄 **Documentation:** Explanation of each function and its role in processing large numbers.
-- 📝 **Input File (input.txt):** Contains large numbers to be processed.
-- 📊 **Output File (output.txt):** Stores results of computations.
 
 ## 📌 Requirements
 - C Compiler (GCC, Clang, or MSVC)
